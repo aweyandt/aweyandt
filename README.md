@@ -8,6 +8,7 @@
    - Compares net worth and percentage allocations.
    -  Displays the companies included in each fund for detailed insights.
    -  **This project is TBD. I am currently deciding which programming language to build this upon.**
+ - Password Strength Checker **TBD**
 
 ## Github Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aweyandt&hide=prs,issues&theme=dark#gh-dark-mode-only)](https://github.com/aweyandt/github-readme-stats#gh-dark-mode-only)
