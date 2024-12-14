@@ -11,6 +11,7 @@
    -  Displays the companies included in each fund for detailed insights.
     -  **This project is being evaluated to determine the requirements.**
  - Password Strength Checker - **This project is being evaluated to determine the requirements.**
+ - Phish Email Spotter
 
 ## Github Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aweyandt&hide=prs,issues&theme=dark#gh-dark-mode-only)](https://github.com/aweyandt/github-readme-stats#gh-dark-mode-only)
