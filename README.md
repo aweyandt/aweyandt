@@ -2,6 +2,8 @@
  - My Name is **Aidan Weyandt**! I am currently a student at the University of North Carolina at Charlotte.
  - I am pursuing a degree in Computer Science, with a concentration in Cyber-Security.
 
+![](https://komarev.com/ghpvc/?username=aweyandt)
+
 # Current Projects
  - Exploring and experimenting with C programming to deepen my understanding of systems-level concepts!
  - Developing a tool for ETF and Mutual Fund Analysis that:
