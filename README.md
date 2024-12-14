@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 Welcome to My Page!
  - My Name is **Aidan Weyandt**! I am currently a student at the University of North Carolina at Charlotte.
  - I am pursuing a degree in Computer Science, with a concentration in Cyber-Security.
 
@@ -8,7 +8,7 @@
  - Exploring and experimenting with C programming to deepen my understanding of systems-level concepts!
 
 
-# Upcoming Projects 
+## Upcoming Projects 
  - Password Strength Checker - **This project is being evaluated to determine the requirements.**
  - Phish Email Spotter
  - ETF/Mutual Fund Comparision 
