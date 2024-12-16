@@ -13,7 +13,7 @@
     -  **This project is being evaluated to determine the requirements.**
 
 ## Completed Projects
-- [Password Strength Checker](./Cyber-Sec/PSW%20Strength%20Checker%20Overview.md)
+- [Password Strength Checker](**./Cyber-Sec/PSW%20Strength%20Checker%20Overview.md**)
 
 
 
