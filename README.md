@@ -13,7 +13,8 @@
     -  **This project is being evaluated to determine the requirements.**
 
 ## Completed Projects
-- [Password Strength Checker](**./Cyber-Sec/PSW%20Strength%20Checker%20Overview.md**)
+- You can view the overview for the PSW Strength Checker in this [document](https://github.com/aweyandt/Cyber-Security/blob/main/Cyber-Sec/PSW%20Strength%20Checker%20Overview.md).
+
 
 
 
