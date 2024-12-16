@@ -5,11 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=aweyandt)
 
 ## Current Projects
- - Exploring and experimenting with C programming to deepen my understanding of systems-level concepts!
-
-
+ - Password Strength Checker 
 ## Upcoming Projects 
- - Password Strength Checker - **This project is being evaluated to determine the requirements.**
  - Phish Email Spotter
  - ETF/Mutual Fund Comparision 
    - Compares net worth and percentage allocations.
