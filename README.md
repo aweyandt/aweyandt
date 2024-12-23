@@ -4,8 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=aweyandt)
 
-## Current Projects
- - Phish Email Spotter
 ## Upcoming Projects 
  - ETF/Mutual Fund Comparision 
    - Compares net worth and percentage allocations.
@@ -13,7 +11,8 @@
     -  **This project is being evaluated to determine the requirements.**
 
 ## Completed Projects
-- [Password Strength Checker](https://github.com/aweyandt/Cyber-Security/blob/main/Cyber-Sec/PSW%20Strength%20Checker%20Overview.md).
+- [Password Strength Checker](https://github.com/aweyandt/Cyber-Security/blob/main/Password%20Stength%20Checker/PSW%20Strength%20Checker%20Overview.md).
+- [Password Generator](https://github.com/aweyandt/Cyber-Security/blob/main/Randomized%20Password/random.md)
 
 
 
